@@ -1,4 +1,6 @@
-# RavenOS
+<p align="center">
+  <img src="/docs/logo.png"/>
+</p>
 RavenOS is a single-user and single-tasking operating system based on the monolithic kernel.
 
 ## Run Locally
